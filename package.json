@@ -2,7 +2,7 @@
   "name": "blog",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://alexmai123.github.io/alexhome",
+  "homepage": "https://alexmai123.github.io/alexhome/",
   "dependencies": {
     "@material-ui/core": "^4.6.1",
     "gh-pages": "^2.1.1",
